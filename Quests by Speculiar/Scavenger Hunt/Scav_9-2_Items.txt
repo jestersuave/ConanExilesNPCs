@@ -1,0 +1,24 @@
+20 Lasting Meals
+20 Hearty Meals
+20 Meat Strips
+20 Fish Strips
+20 Meaty Mashups
+20 Bush Jerky
+20 Chili Desert Style
+20 Bone Broth
+20 Bug Kabob
+20 Savory Jerky
+20 Steak and Eggs
+20 Yellow Lotus Soup
+20 Demon-Blood Sausage
+20 Spiced Slivers
+20 Seed Soup
+
+And because not everyone likes to drink alcohol:
+20 Mushroom Tea
+20 Iced Tea
+20 Herbal Tea
+20 Cleansing Brew
+20 Berry Juice
+
+The items above require players to have certain recipes. The URL to locations is as follows.  https://www.reddit.com/r/ConanExiles/comments/6veqpv/new_recipes_location/
